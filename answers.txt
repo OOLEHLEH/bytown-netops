@@ -1,5 +1,5 @@
 Q1: f47a764
-Q2: 2
+Q2: 3
 Q3: "git pull". It downloads the teammates changes and merges them into my local branch so I can integrate their changes before pushing again.
 Q4: No. Adding secrets.env to .gitignore does not protect the password because the file was already committed and pushed to github.
 Q5: "git branch -d old-fix", and "git push origin --delete old-fix".
